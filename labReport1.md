@@ -7,7 +7,6 @@ I got this output because there
 
 
 
-
 ls
 
 cat
