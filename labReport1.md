@@ -19,7 +19,7 @@ There is not an error becuase if there was, there would have been output.
 ![Image](https://github.com/camunkefer/cse15l-lab-reports/blob/main/Screenshot%202024-04-02%20102039.png)
 
 
-/c/Users/camer/OneDrive/lab 1 CSE 15/lecture1
+/c/Users/camer
 
 
 # ls
