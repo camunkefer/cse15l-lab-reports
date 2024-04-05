@@ -2,7 +2,7 @@
 __Cameron__
 # Hi
 ## Hi 2
-[Link]([http://a.com](https://ucsd-cse15l-s24.github.io/week1/index.html#lab-report-1---remote-access-and-filesystem-week-1))
+[Link](https://ucsd-cse15l-s24.github.io/week1/index.html#lab-report-1---remote-access-and-filesystem-week-1)
 
 ![Image](dc1a7b120b1496b6badc84c874d61292.jpg)
 
