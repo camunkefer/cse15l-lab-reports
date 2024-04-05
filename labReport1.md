@@ -1,6 +1,6 @@
 # cd
 
-[Link](https://github.com/camunkefer/cse15l-lab-reports/blob/main/Screenshot%202024-04-02%20102039.png)
+![Image](https://github.com/camunkefer/cse15l-lab-reports/blob/main/Screenshot%202024-04-02%20102039.png)
 
 /c/Users/camer/OneDrive/lab 1 CSE 15/lecture1
 
@@ -10,11 +10,15 @@ There is not an error becuase if there was, there would have been output.
 
 
 
-[Link](https://github.com/camunkefer/cse15l-lab-reports/blob/main/Screenshot%202024-04-02%20102218.png)
+![Image](https://github.com/camunkefer/cse15l-lab-reports/blob/main/Screenshot%202024-04-02%20102218.png)
+
+
 /c/Users/camer/OneDrive/lab 1 CSE 15/lecture1
 
 
-[Link](https://github.com/camunkefer/cse15l-lab-reports/blob/main/Screenshot%202024-04-02%20102039.png)
+![Image](https://github.com/camunkefer/cse15l-lab-reports/blob/main/Screenshot%202024-04-02%20102039.png)
+
+
 /c/Users/camer/OneDrive/lab 1 CSE 15/lecture1
 
 
