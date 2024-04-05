@@ -16,7 +16,7 @@ There is not an error becuase if there was, there would have been output.
 /c/Users/camer
 
 
-![Image](https://github.com/camunkefer/cse15l-lab-reports/blob/main/Screenshot%202024-04-02%20102039.png)
+![Image](https://github.com/camunkefer/cse15l-lab-reports/blob/main/Screenshot%202024-04-02%20102255.png)
 
 
 /c/Users/camer
