@@ -33,6 +33,12 @@ class ChatServer {
 ```
 ## Screenshots of using `/add-message`
 ### Screenshot 1
-![Image](Screenshot 2024-04-16 102947.png)
+![Image](Screenshot%202024-04-16%20102947.png)
+Which methods in your code are called?
+What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
 ### Screenshot 2
-![Image](Screenshot 2024-04-16 102735.png)
+![Image](Screenshot%202024-04-16%20102735.png)
+Which methods in your code are called?
+What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
