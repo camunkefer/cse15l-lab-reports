@@ -44,10 +44,10 @@ class ChatServer {
 * `s` in `handleRequest` is a value that changes from this specific request. `handleRequest` goes into the path of the URL, and if it contains `/add-message` which it does, will update the value of `s` according to what the query has for user and message. Since the query is `?s=Hi!!&user=Brianna`, `s` gets updated to `"Cameron: Hello\n Brianna: Hi!!\n"` <br>
 # Part 2
 ## command line of your computer, `ls` with the absolute path to the private key
-![Image]()  <br>
+![Image](Screenshot%202024-04-16%20162405.png)  <br>
 ## command line of the ieng6 machine, run `ls` with the absolute path to the public key
-![Image]()  <br>
+![Image](Screenshot%202024-04-16%20163759.png)  <br>
 ## A terminal interaction - log into your ieng6 account without being asked for a password
-![Image]()  <br>
+![Image](Screenshot%202024-04-16%20163848.png)  <br>
 # Part 3
 What I learned from lab in week 2 is that you can update a webpage by adding paths and queries to the end of it. This is a really cool and fun feature that I can play arround with. I also leanred about the differnt parts of a URL.
